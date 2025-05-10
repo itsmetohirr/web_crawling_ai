@@ -32,6 +32,7 @@ httplib2==0.22.0
 httpx==0.28.1
 httpx-sse==0.4.0
 idna==3.10
+inflection==0.5.1
 ipykernel==6.29.5
 ipython==9.2.0
 ipython_pygments_lexers==1.1.1
@@ -44,6 +45,7 @@ jupyter_core==5.7.2
 langchain==0.3.25
 langchain-community==0.3.23
 langchain-core==0.3.58
+langchain-openai==0.3.16
 langchain-text-splitters==0.3.8
 langsmith==0.3.42
 marshmallow==3.26.1
@@ -66,6 +68,7 @@ protobuf==6.30.2
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pyairtable==3.1.1
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pydantic==2.11.4
@@ -77,6 +80,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 PyYAML==6.0.2
 pyzmq==26.4.0
+regex==2024.11.6
 requests==2.32.3
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
@@ -87,6 +91,7 @@ soupsieve==2.7
 SQLAlchemy==2.0.40
 stack-data==0.6.3
 tenacity==9.1.2
+tiktoken==0.9.0
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
