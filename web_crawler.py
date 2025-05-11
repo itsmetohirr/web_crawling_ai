@@ -76,7 +76,7 @@ async def update_airtable(website, result):
 
 
 async def main():
-    website = 'wired.com'
+    website = input('Enter a website url: ')
     markdown = crawl(website)
     result = ai_modify(markdown)
 
